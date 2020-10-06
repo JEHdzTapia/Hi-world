@@ -1,2 +1,4 @@
 # Hi-world
-Solo otro repositorio de introducción a Github
+Hola! 
+Este es solo otro repositorio de introducción a Github
+Resulta demasiado práctico con instrucciones
